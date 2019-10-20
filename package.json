@@ -1,0 +1,23 @@
+{
+  "name": "liri-app",
+  "version": "1.0.0",
+  "description": "liri",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developrfw/Liri-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developrfw/Liri-App/issues"
+  },
+  "homepage": "https://github.com/developrfw/Liri-App#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "spotify": "^0.3.0"
+  }
+}
