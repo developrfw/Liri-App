@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/developrfw/Liri-App#readme",
   "dependencies": {
+    "axios": "^0.19.0",
     "dotenv": "^8.2.0",
+    "file-system": "^2.2.2",
+    "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1",
     "request": "^2.88.0",
     "spotify": "^0.3.0"
