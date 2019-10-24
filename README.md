@@ -17,3 +17,5 @@ Instructions: Because I've used inquirer, the user will be prompt to insert spec
 Images: Check out the images folder for screenshots of the working application for each case.
 
 Technologies Used: -inquirer -fs -dotenv -node-spotify-api -axios -moment
+
+![Image of Spotify]C:\Users\Ryan F Wilson\Liri-App\Images\Concert-This.PNG
